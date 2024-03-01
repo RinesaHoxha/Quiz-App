@@ -1,0 +1,341 @@
+﻿/* No comment provided by engineer. */
+"**Common.Attention**" = "Attention";
+
+/* No comment provided by engineer. */
+"**Common.Cancel**" = "Cancel";
+
+/* No comment provided by engineer. */
+"**Common.OK**" = "OK";
+
+/* No comment provided by engineer. */
+"**HomeQuickActions.ScanQR**" = "Scan QR Code";
+
+/* No comment provided by engineer. */
+"**MainMenu.Entries.Community**" = "Community";
+
+/* No comment provided by engineer. */
+"**MainMenu.Entries.Settings**" = "Settings";
+
+/* No comment provided by engineer. */
+"**MainMenu.Entries.Topics**" = "Topics";
+
+/* No comment provided by engineer. */
+"**Questions.Alerts.End.CorrectAnswers**" = "Correct answers: %@";
+
+/* No comment provided by engineer. */
+"**Questions.Alerts.End.Repeat**" = "Repeat";
+
+/* No comment provided by engineer. */
+"**Questions.Alerts.End.Score**" = "Score: %d";
+
+/* No comment provided by engineer. */
+"**Questions.Alerts.Help.MaxHelpTriesReached**" = "Maximum help tries per question reached";
+
+/* No comment provided by engineer. */
+"**Questions.Alerts.Help.MaxRepeatTriesReached**" = "Maximum repeat tries per quiz reached";
+
+/* No comment provided by engineer. */
+"**Questions.Alerts.Help.NotEnoughPoints**" = "Not enough points.\nYou only get points by completing quizzes.";
+
+/* No comment provided by engineer. */
+"**Questions.Alerts.Repeat.Message**" = "Do you want to start again?";
+
+/* No comment provided by engineer. */
+"**Questions.Alerts.Repeat.Title**" = "Repeat?";
+
+/* No comment provided by engineer. */
+"**Questions.Alerts.TimeRunOut**" = "Time ran out";
+
+/* No comment provided by engineer. */
+"**Questions.PauseMenu.Back.MainMenu**" = "Main menu";
+
+/* No comment provided by engineer. */
+"**Questions.PauseMenu.Back.QuestionsMenu**" = "Questions menu";
+
+/* No comment provided by engineer. */
+"**Questions.PauseMenu.Continue**" = "Continue";
+
+/* No comment provided by engineer. */
+"**Questions.PauseMenu.Music.Pause**" = "Pause music";
+
+/* No comment provided by engineer. */
+"**Questions.PauseMenu.Music.Play**" = "Play  music";
+
+/* No comment provided by engineer. */
+"**Questions.PauseMenu.Pause**" = "Pause";
+
+/* No comment provided by engineer. */
+"**ScanQR.Alerts.Open.KeepScanning**" = "Keep scanning";
+
+/* No comment provided by engineer. */
+"**ScanQR.Alerts.Open.OpenIt**" = "Open it";
+
+/* No comment provided by engineer. */
+"**ScanQR.Alerts.Open.Title**" = "Open first question set";
+
+/* No comment provided by engineer. */
+"**ScanQR.Error.InvalidFormat**" = "Invalid QR Code format";
+
+/* No comment provided by engineer. */
+"**ScanQR.Permissions.Camera.Access**" = "Allow camera access";
+
+/* No comment provided by engineer. */
+"**ScanQR.Permissions.Camera.Description**" = "Camera access required for QR Scanning";
+
+/* No comment provided by engineer. */
+"**Security.Alerts.ProtectedContent.Exit**" = "Exit quiz";
+
+/* No comment provided by engineer. */
+"**Security.Alerts.ProtectedContent.Message**" = "Please don't use the screen recorder or take screenshots";
+
+/* No comment provided by engineer. */
+"**Security.Alerts.ProtectedContent.OK**" = "I have disabled it";
+
+/* No comment provided by engineer. */
+"**Security.Alerts.ProtectedContent.Title**" = "This content is protected";
+
+/* No comment provided by engineer. */
+"**Settings.Alerts.ResetProgress.Everything**" = "Everything";
+
+/* No comment provided by engineer. */
+"**Settings.Alerts.ResetProgress.OnlyStatistics**" = "Only Statistics";
+
+/* No comment provided by engineer. */
+"**Settings.Alerts.ResetProgress.Title**" = "Are you sure you want to reset the game configuration and progress?";
+
+/* No comment provided by engineer. */
+"**Settings.Options.ClearCachedImages**" = "Clear cached images";
+
+/* No comment provided by engineer. */
+"**Settings.Options.ClearCachedImages.Action**" = "Clear";
+
+/* No comment provided by engineer. */
+"**Settings.Options.DarkTheme**" = "Dark theme";
+
+/* No comment provided by engineer. */
+"**Settings.Options.HapticFeedback**" = "Haptic Feedback";
+
+/* No comment provided by engineer. */
+"**Settings.Options.HapticFeedback.Info**" = "*Only available on certain devices.";
+
+/* No comment provided by engineer. */
+"**Settings.Options.Licenses**" = "Licenses";
+
+/* No comment provided by engineer. */
+"**Settings.Options.Music**" = "Background Music";
+
+/* No comment provided by engineer. */
+"**Settings.Options.ParallaxEffect**" = "Parallax Effect";
+
+/* No comment provided by engineer. */
+"**Settings.Options.ResetProgress**" = "Reset progress";
+
+/* No comment provided by engineer. */
+"**Settings.Statistics.CompletedSets**" = "Completed sets";
+
+/* No comment provided by engineer. */
+"**Settings.Statistics.CorrectAnswers**" = "Correct answers";
+
+/* No comment provided by engineer. */
+"**Settings.Statistics.IncorrectAnswers**" = "Incorrect answers";
+
+/* No comment provided by engineer. */
+"**Settings.Statistics.Ratio**" = "Ratio";
+
+/* No comment provided by engineer. */
+"**Settings.Statistics.Title**" = "Statistics";
+
+/* No comment provided by engineer. */
+"**Settings.Title**" = "Settings";
+
+/* No comment provided by engineer. */
+"**Topics.AllTopics.SearchBar.PlaceholderText**" = "Topic name";
+
+/* No comment provided by engineer. */
+"**Topics.AllTopics.Title**" = "Topics";
+
+/* No comment provided by engineer. */
+"**Topics.AllTopics.Type.App**" = "App";
+
+/* No comment provided by engineer. */
+"**Topics.AllTopics.Type.Community**" = "Community";
+
+/* No comment provided by engineer. */
+"**Topics.AllTopics.Type.Saved**" = "Saved";
+
+/* No comment provided by engineer. */
+"**Topics.Community.Submission.Action**" = "Submit";
+
+/* No comment provided by engineer. */
+"**Topics.Community.Submission.Help**" = "Help";
+
+/* No comment provided by engineer. */
+"**Topics.Community.Submission.Info**" = "You can download a topic using a URL which contains the formatted content or paste the content directly.";
+
+/* No comment provided by engineer. */
+"**Topics.Community.Submission.Title**" = "Topic submissio";
+
+/* No comment provided by engineer. */
+"**Topics.Community.Submission.TopicContent**" = "Topic URL or fomatted content";
+
+/* No comment provided by engineer. */
+"**Topics.Community.Submission.TopicName**" = "Topic Name";
+
+/* No comment provided by engineer. */
+"**Topics.Community.Title**" = "Community";
+
+/* No comment provided by engineer. */
+"**Topics.Quizzes.Title**" = "Quizzes";
+
+/* No comment provided by engineer. */
+"**Topics.Saved.Add.Download.Action**" = "Add";
+
+/* No comment provided by engineer. */
+"**Topics.Saved.Add.Download.Help**" = "Help";
+
+/* No comment provided by engineer. */
+"**Topics.Saved.Add.Download.Info**" = "You can specify a URL which contains an appropiate formatted file or the full topic content.";
+
+/* No comment provided by engineer. */
+"**Topics.Saved.Add.Download.Title**" = "Add topic";
+
+/* No comment provided by engineer. */
+"**Topics.Saved.Add.Download.TopicContent**" = "Topic URL or fomatted content";
+
+/* No comment provided by engineer. */
+"**Topics.Saved.Add.Download.TopicName**" = "Topic Name";
+
+/* No comment provided by engineer. */
+"**Topics.Saved.Add.Menu.Camera**" = "Read from camera";
+
+/* No comment provided by engineer. */
+"**Topics.Saved.Add.Menu.Create**" = "Create topic";
+
+/* No comment provided by engineer. */
+"**Topics.Saved.Add.Menu.Download**" = "Download remote topic";
+
+/* No comment provided by engineer. */
+"**Topics.Saved.Delete**" = "Delete";
+
+/* No comment provided by engineer. */
+"**Topics.Saved.DeleteAll**" = "Delete %1$d item%2$@";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.Alerts.Error.GeneratorForm**" = "Invalid data. Number of sets must be higher than 0, questions per set must be higher than 0 and answers per question must be higher than 1.";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.Alerts.Save.Accept**" = "Save";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.Alerts.Save.Cancel**" = "Wait! I'm not done";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.Alerts.Save.Error**" = "Error while saving";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.Alerts.Save.Share**" = "Share";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.Alerts.Save.Success**" = "Saved";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.Alerts.Save.Title**" = "What to do with the topic";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.AnswersPerQuestion**" = "Answers per question";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.Generate**" = "Generate form";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.QuestionsPerSet**" = "Questions per set";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.SetsNumber**" = "Number of sets";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.Title**" = "Create Topic";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Answer**" = "Answer";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.ImageURL**" = "Image URL";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.ImageURLPlaceholder**" = "Optional";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Options.EnableHelp**" = "Enable help button";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Options.ForceChooseCorrectAnswers**" = "Force to choose all correct answers";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Options.Name**" = "Name";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Options.NamePlaceholder**" = "Optional but recommended";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Options.RandomOrderQuestions**" = "Questions in random order";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Options.SectionTitle**" = "Options";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Options.ShowCorrectIncorrect**" = "Show Correct/Incorrect answers";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Options.Time**" = "Time per set";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Options.TimePlaceholder**" = "Optional";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Question**" = "Question";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Set**" = "Set";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Title**" = "Topic Creator";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Validation.Answers.BadCorrectCount**" = "The number of correct answers is incorrect.";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Validation.Answers.BadCorrectCount.Recovery**" = "[Location] Set: %1$d, question: %2$d, correct answers: %3$d";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Validation.Answers.BadCorrectIndex**" = "The 'correct answer' index is incorrect.";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Validation.Answers.BadCorrectIndex.Recovery**" = "[Location] Set: %1$d, question: %2$d, bad: %3$d, maximum: %4$d";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Validation.Answers.Empty**" = "At least one answer is empty.";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Validation.Answers.Empty.Recovery**" = "[Location] Set: %1$d, question: %2$d, answer: %3$d";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Validation.Answers.IncorrectCount**" = "The number of valid answers is incorrect, repeated answers are not allowed.";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Validation.Answers.IncorrectCount.Recovery**" = "[Location] Set: %1$d, question: %2$d";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Validation.Invalid**" = "Invalid topic";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Validation.Questions.Empty**" = "At least question set is empty.";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Validation.Questions.Empty.Recovery**" = "[Location] Set: %1$d, question: %2$d";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Validation.Sets.Empty**" = "At least one set is empty.";
+
+/* No comment provided by engineer. */
+"**TopicsCreation.WebView.Validation.Sets.Empty.Recovery**" = "Sets count: %d";
